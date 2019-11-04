@@ -1,0 +1,17 @@
+pandas
+numpy
+wordcloud
+matplotlib
+nltk
+regex
+seaborn
+itertools
+collections
+textblob
+glob
+tweepy
+datetime
+twisted
+newspaper3k
+plotly
+
